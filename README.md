@@ -8,9 +8,9 @@ npm install random-anime
 
 Usage :
 ```javascript
-const randomanime = require('random-anime')
+const anime = require('random-anime')
 
-console.log(randomanime) //https://images.jpg
+console.log(anime) //https://images.jpg
 ```
 
 ## License
