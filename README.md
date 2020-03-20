@@ -1,5 +1,5 @@
-# random-anime
-## Generate random anime images
+# Random Anime
+Generate random anime images.
 
 Installation :
 ```bash
