@@ -2,4 +2,6 @@
 ## Generate random anime images
 
 Installation :
-```npm install random-anime```
+```bash
+npm install random-anime
+```
