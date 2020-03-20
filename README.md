@@ -1,2 +1,2 @@
 # random-anime
-Generate random anime images
+## Generate random anime images
