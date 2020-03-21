@@ -20,9 +20,9 @@ $ npm install random-anime
 ```javascript
 const randomanime = require('random-anime')
 
-console.log(randomanime.anime()) //=> https://anime.jpg
-console.log(randomanime.nsfw()) //=> https://nsfw.jpg
-console.log(randomanime.neko()) //=> https://neko.jpg
+console.log(randomanime.anime()) //https://anime.jpg
+console.log(randomanime.nsfw()) //https://nsfw.jpg
+console.log(randomanime.neko()) //https://neko.jpg
 ```
 
 ## Options
