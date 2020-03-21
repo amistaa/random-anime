@@ -20,7 +20,7 @@ $ npm install random-anime
 ```javascript
 const randomanime = require('random-anime')
 const anime = randomanime.anime()
-const nswf = randomanime.nsfw()
+const nsfw = randomanime.nsfw()
 
 console.log(anime) //https://anime.jpg
 console.log(nsfw)  //https://nsfw.jpg
