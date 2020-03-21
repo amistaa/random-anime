@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Installation :
+## Installation :
 ```bash
 npm install random-anime
 ```
