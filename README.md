@@ -21,16 +21,14 @@ $ npm install random-anime
 const randomanime = require('random-anime')
 
 console.log(randomanime.anime()) //https://anime.jpg
-console.log(randomanime.nsfw())  //https://nsfw.jpg
-console.log(randomanime.neko())  //https://neko.jpg
 ```
 
 ## Options
-**Options** | **Description**
+**Options** | **Description** | **Usage**
 :---: | ---
-anime | Random anime images.
-nsfw | Random NSFW anime images.
-neko | Random neko anime images.
+anime | Random anime images. | randomanime.anime()
+nsfw | Random NSFW anime images. | (randomanime.nsfw()
+neko | Random neko anime images. | randomanime.neko()
 
 ## License
 [MIT](https://github.com/amistaa/random-anime/blob/master/LICENSE) © Amista
