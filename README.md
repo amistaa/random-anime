@@ -54,7 +54,6 @@ client.on("message", async message => {
 :---: | --- | ---
 anime | Random anime images. | randomanime.anime()
 nsfw | Random NSFW anime images. | randomanime.nsfw()
-neko | Random neko anime images. | randomanime.neko()
 
 ## License
 [MIT](https://github.com/amistaa/random-anime/blob/master/LICENSE) © Amista
