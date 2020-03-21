@@ -10,7 +10,7 @@
    </a>
 </p>
 <h3 align="center"><strong>Generate random anime images with many features.</strong></h3>
-[![NPM version][npm-version-image]][npm-url] [![NPM downloads][npm-downloads-image]][downloads-url] [![MIT License][license-image]][license-url] [![Build Status][travis-image]][travis-url]
+
 ## Installation
 ```bash
 $ npm install random-anime
@@ -26,7 +26,7 @@ console.log(anime) //https://anime.jpg
 console.log(nsfw)  //https://nsfw.jpg
 ```
 
-## Usage (Discord Bot)
+## Discord Bot
 ```javascript
 const randomanime = require("random-anime");
 const Discord = require("discord.js");
