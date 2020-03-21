@@ -50,12 +50,10 @@ client.on("message", async message => {
 ```
 
 ## Options
-<p align="center">
 **Options** | **Description** | **Usage**
 :---: | --- | ---
 anime | Random anime images. | randomanime.anime()
 nsfw | Random NSFW anime images. | randomanime.nsfw()
-</p>
 
 ## License
 [MIT](https://github.com/amistaa/random-anime/blob/master/LICENSE) © Amista
