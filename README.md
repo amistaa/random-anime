@@ -29,13 +29,13 @@ const randomanime = require("random-anime");
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
-client.login("TOKEN");
-client.on("message", async message => {
+client.login("BOT_TOKEN");
 
-   if (message.content === "anime") {
-   message.channe.send(randomanime.anime())
-   }
-   
+client.on("message", async message => {
+    if (message.content === "anime") {
+     const anime = randomanime.anime()
+     message.channel.send(anime)
+   } 
 })
 ```
 
