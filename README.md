@@ -23,6 +23,22 @@ const randomanime = require('random-anime')
 console.log(randomanime.anime()) //https://anime.jpg
 ```
 
+## Usage (Discord Bot)
+```javascript
+const randomanime = require("random-anime");
+const Discord = require("discord.js");
+const client = new Discord.Client();
+
+client.login("TOKEN");
+client.on("message", async message => {
+
+   if (message.content === "anime") {
+   message.channe.send(randomanime.anime())
+   }
+   
+})
+```
+
 ## Options
 **Options** | **Description** | **Usage**
 :---: | --- | ---
