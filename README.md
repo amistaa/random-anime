@@ -9,7 +9,7 @@
   <a href="https://www.npmjs.com/package/random-anime"><img src="https://img.shields.io/npm/dt/random-anime.svg?maxAge=3600" alt="NPM downloads" />
    </a>
 </p>
-<h3 align="center"><strong>Generate random anime images.</strong></h3>
+<h3 align="center"><strong>Generate random anime images with many features.</strong></h3>
 
 ## Installation
 ```bash
@@ -21,8 +21,14 @@ $ npm install random-anime
 const anime = require('random-anime')
 
 console.log(anime)
-[ images.jpg ]
 ```
+
+## Options
+Options | Description
+---|---
+anime | Random anime images.
+nsfw | Random NSFW anime images.
+neko | Random neko anime images.
 
 ## License
 [MIT](https://github.com/amistaa/random-anime/blob/master/LICENSE) © Amista
