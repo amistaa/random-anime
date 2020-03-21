@@ -25,7 +25,7 @@ console.log(randomanime.anime()) //https://anime.jpg
 
 ## Options
 **Options** | **Description** | **Usage**
-:---: | ---
+:---: | --- | ---
 anime | Random anime images. | randomanime.anime()
 nsfw | Random NSFW anime images. | (randomanime.nsfw()
 neko | Random neko anime images. | randomanime.neko()
