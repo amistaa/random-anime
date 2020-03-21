@@ -25,7 +25,7 @@ console.log(anime)
 
 ## Options
 Options | Description
---- | :---:
+:---: | ---
 anime | Random anime images.
 nsfw | Random NSFW anime images.
 neko | Random neko anime images.
