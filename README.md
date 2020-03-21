@@ -16,11 +16,12 @@
 $ npm install random-anime
 ```
 
-Usage :
+## Usage
 ```javascript
 const anime = require('random-anime')
 
-console.log(anime) //https://images.jpg
+console.log(anime)
+[ images.jpg ]
 ```
 
 ## License
