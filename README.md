@@ -19,8 +19,11 @@ $ npm install random-anime
 ## Usage
 ```javascript
 const randomanime = require('random-anime')
+const anime = randomanime.anime()
+const nswf = randomanime.nsfw()
 
-console.log(randomanime.anime()) //https://anime.jpg
+console.log(anime)) //https://anime.jpg
+console.log(nsfw))  //https://nsfw.jpg
 ```
 
 ## Usage (Discord Bot)
