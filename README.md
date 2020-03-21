@@ -1,4 +1,8 @@
-# Random Anime
+<p align="center">
+  <a href="https://discord.gg/zGmNyk7">
+    <img src="https://cdn.discordapp.com/attachments/666573321894232095/690961950527717456/random-anime.png" alt="Random Anime">
+  </a>
+</p>
 Generate random anime images.
 
 Installation :
