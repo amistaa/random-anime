@@ -25,11 +25,11 @@ console.log(randomanime.anime)
 ```
 
 ## Options
-**Options | Description**
+**Options** | **Description**
 :---: | ---
-**anime | Random anime images.**
-**nsfw | Random NSFW anime images.**
-**neko | Random neko anime images.**
+**anime** | **Random anime images.**
+**nsfw** | **Random NSFW anime images.**
+**neko** | **Random neko anime images.**
 
 ## License
 [MIT](https://github.com/amistaa/random-anime/blob/master/LICENSE) © Amista
