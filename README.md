@@ -9,7 +9,7 @@
   <a href="https://www.npmjs.com/package/random-anime"><img src="https://img.shields.io/npm/dt/random-anime.svg?maxAge=3600" alt="NPM downloads" />
    </a>
 </p>
-<h3 align="center"><strong>Generate random anime images with huge database.</strong></h3>
+<h3 align="center"><strong>Generate random anime images with a huge database.</strong></h3>
 
 ## Installation
 ```bash
