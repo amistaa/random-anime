@@ -4,10 +4,6 @@
   </a>
 </p>
 <p align="center">
-  <div align="center" style="margin:15px 0">
-  <a href="https://github.com/amistaa/random-anime/blob/master/LICENSE.md">
-    <img alt="MIT License" src="https://img.shields.io/badge/license-MIT-blue.svg" />
-  </a>
   <a href="https://www.npmjs.com/package/random-anime"><img src="https://img.shields.io/npm/v/random-anime.svg?maxAge=3600" alt="NPM version" />
   </a>
   <a href="https://www.npmjs.com/package/random-anime"><img src="https://img.shields.io/npm/dt/random-anime.svg?maxAge=3600" alt="NPM downloads" />
