@@ -12,6 +12,7 @@
   </a>
   <a href="https://www.npmjs.com/package/random-anime"><img src="https://img.shields.io/npm/dt/random-anime.svg?maxAge=3600" alt="NPM downloads" />
    </a>
+  </div>
 </p>
 <h3 align="center"><strong>Generate random anime images with a huge database.</strong></h3>
 
