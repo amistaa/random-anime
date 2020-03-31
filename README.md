@@ -40,10 +40,16 @@ client.on("message", async message => {
     const anime = randomanime.anime();
     message.channel.send(anime);
   }
-  //Embed Image
+  //Embed Image (D.JS Version 11)
   if (message.content === "embed") {
     const anime = randomanime.anime();
     const embed = new Discord.RichEmbed().setImage(anime);
+    message.channel.send(embed);
+  }
+  //Embed Image (D.JS Version 12)
+  if (message.content === "embed") {
+    const anime = randomanime.anime();
+    const embed = new Discord.MessageEmbed().setImage(anime);
     message.channel.send(embed);
   }
 });
