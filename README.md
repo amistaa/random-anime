@@ -4,22 +4,15 @@
   </a>
 </p>
 <p align="center">
+  <div align="center" style="margin:15px 0">
+  <a href="https://github.com/amistaa/random-anime/blob/master/LICENSE.md">
+    <img alt="MIT License" src="https://img.shields.io/badge/license-MIT-blue.svg" />
+  </a>
   <a href="https://www.npmjs.com/package/random-anime"><img src="https://img.shields.io/npm/v/random-anime.svg?maxAge=3600" alt="NPM version" />
   </a>
   <a href="https://www.npmjs.com/package/random-anime"><img src="https://img.shields.io/npm/dt/random-anime.svg?maxAge=3600" alt="NPM downloads" />
    </a>
 </p>
-<div align="center" style="margin:15px 0">
-  <a href="https://github.com/amistaa/random-anime/blob/master/LICENSE.md">
-    <img alt="MIT License" src="https://img.shields.io/badge/license-MIT-blue.svg" />
-  </a>
-  <a href="https://www.npmjs.com/package/random-animes">
-    <img alt="NPM version" src="https://img.shields.io/npm/v/random-anime.svg" />
-  </a>
-  <a href="https://github.com/amistaa/random-anime">
-    <img alt="semantic-release" src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-random-anime.svg" />
-  </a>
-</div>
 <h3 align="center"><strong>Generate random anime images with a huge database.</strong></h3>
 
 ## Installation
