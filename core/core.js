@@ -1,15 +1,15 @@
-const databaseAnime = require('../database/anime.json')
-const databaseNSFW = require('../database/nsfw.json')
+import anime from "../database/anime.json";
+import nsfw from "../database/nsfw.json";
 
-function animeRandom() {
+const animeRandom = function () {
   return {
-    anime: () => databaseAnime[mathRandom(databaseAnime.length)],
-    nsfw: () => databaseNSFW[mathRandom(databaseNSFW.length)]
-  }
-}
+    anime: () => anime[mathRandom(anime.length)],
+    nsfw: () => nsfw[mathRandom(nsfw.length)],
+  };
+};
 
 function mathRandom(max) {
-    return ~~(Math.random() * max)
+  return ~~(Math.random() * max);
 }
 
-module.exports = animeRandom()
+module.exports = animeRandom();
