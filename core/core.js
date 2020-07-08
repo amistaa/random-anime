@@ -8,8 +8,8 @@ const animeRandom = function () {
   };
 };
 
-function mathRandom(max) {
-  return ~~(Math.random() * max);
+const mathRandom = function (number) {
+  return ~~(Math.random() * number);
 }
 
 module.exports = animeRandom();
