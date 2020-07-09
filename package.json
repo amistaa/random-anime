@@ -1,6 +1,6 @@
 {
   "name": "random-anime",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "Generate random anime images with many features.",
   "main": "index.js",
   "scripts": {
