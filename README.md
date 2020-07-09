@@ -36,18 +36,12 @@ const client = new Discord.Client();
 client.login("BOT_TOKEN");
 
 client.on("message", async message => {
-  //Plain Text
+  /* Plain Text */
   if (message.content === "plain") {
     const anime = randomanime.anime();
     message.channel.send(anime);
   }
-  //Embed Image (D.JS Version 11)
-  if (message.content === "embed") {
-    const anime = randomanime.anime();
-    const embed = new Discord.RichEmbed().setImage(anime);
-    message.channel.send(embed);
-  }
-  //Embed Image (D.JS Version 12)
+  /* Embed Image (D.JS Version 12) */
   if (message.content === "embed") {
     const anime = randomanime.anime();
     const embed = new Discord.MessageEmbed().setImage(anime);
