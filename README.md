@@ -33,8 +33,6 @@ const randomanime = require("random-anime");
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
-client.login("BOT_TOKEN");
-
 client.on("message", async message => {
   /* Plain Text */
   if (message.content === "plain") {
@@ -48,6 +46,8 @@ client.on("message", async message => {
     message.channel.send(embed);
   }
 });
+
+client.login("BOT_TOKEN");
 ```
 
 ## Options
